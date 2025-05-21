@@ -6,7 +6,7 @@ import {
     StructType,
     TokenIdentifierType,
     U64Type,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import BigNumber from 'bignumber.js';
 import { ErrInvalidDataField } from '../../errors';
 import { GenericToken } from '../../generic.token';

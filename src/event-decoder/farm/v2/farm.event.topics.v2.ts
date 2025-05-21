@@ -1,4 +1,4 @@
-import { Address } from '@terradharitri/sdk-core/out';
+import { Address } from '@terradharitri/sdk-core';
 import { FarmEventsTopicsTypeV2 } from './farm.v2.types';
 
 export class FarmEventsTopicsV2 {

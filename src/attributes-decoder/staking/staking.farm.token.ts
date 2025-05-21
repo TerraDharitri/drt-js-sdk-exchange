@@ -3,7 +3,7 @@ import {
     BinaryCodec,
     FieldDefinition,
     StructType,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import {
     StakingFarmTokenAttributesType,
     StakingFarmTokenType,

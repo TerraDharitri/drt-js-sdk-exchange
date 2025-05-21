@@ -6,7 +6,7 @@ import {
     StructType,
     TokenIdentifierType,
     U64Type,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { WrappedLpTokenAttributes } from '../../attributes-decoder/proxy/wrappedLp.token';
 import { ErrInvalidDataField } from '../../errors';
 import { GenericToken } from '../../generic.token';

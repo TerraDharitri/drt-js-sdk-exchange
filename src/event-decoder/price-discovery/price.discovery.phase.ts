@@ -3,7 +3,7 @@ import {
     EnumVariantDefinition,
     FieldDefinition,
     BigUIntType,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { PhaseType } from './price.discovery.types';
 
 export class PriceDiscoveryPhase {

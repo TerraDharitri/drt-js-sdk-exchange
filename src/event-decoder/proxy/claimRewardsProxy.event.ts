@@ -6,7 +6,7 @@ import {
     StructType,
     TokenIdentifierType,
     U64Type,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { WrappedFarmTokenAttributes } from '../../attributes-decoder/proxy/wrappedFarm.token';
 import { GenericToken } from '../../generic.token';
 import { RewardsProxyEvent } from './rewardsProxy.event';

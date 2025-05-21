@@ -3,7 +3,7 @@ import {
     FieldDefinition,
     U64Type,
     BigUIntType,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { UserEntryType } from './metabonding.types';
 
 export class UserEntry {

@@ -4,7 +4,7 @@ import {
     FieldDefinition,
     StructType,
     U64Type,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { FarmTokenAttributesType } from './farm.token.types';
 
 export class FarmTokenAttributes {

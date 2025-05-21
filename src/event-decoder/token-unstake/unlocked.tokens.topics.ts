@@ -1,4 +1,4 @@
-import { Address } from '@terradharitri/sdk-core/out';
+import { Address } from '@terradharitri/sdk-core';
 import { UnlockedTokensTopicsType } from './token.unstake.types';
 
 export class UserUnlockedTokensTopics {

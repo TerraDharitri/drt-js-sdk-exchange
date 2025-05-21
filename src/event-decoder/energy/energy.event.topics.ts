@@ -1,4 +1,4 @@
-import { Address } from '@terradharitri/sdk-core/out';
+import { Address } from '@terradharitri/sdk-core';
 import { EnergyEventTopicsType } from './energy.event.types';
 
 export class EnergyEventTopics {

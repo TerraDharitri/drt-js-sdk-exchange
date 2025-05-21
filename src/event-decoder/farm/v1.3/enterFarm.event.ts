@@ -6,7 +6,7 @@ import {
     StructType,
     TokenIdentifierType,
     U64Type,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { FarmTokenAttributesV1_3 } from '../../../attributes-decoder';
 import { RawEventType } from '../../generic.types';
 import { BaseFarmEvent } from '../enter.farm.base.event';
