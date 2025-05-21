@@ -1,4 +1,4 @@
-import { BinaryCodec, StructType } from '@terradharitri/sdk-core/out';
+import { BinaryCodec, StructType } from '@terradharitri/sdk-core';
 import BigNumber from 'bignumber.js';
 import { ErrInvalidDataField } from '../../errors';
 import { GenericToken } from '../../generic.token';

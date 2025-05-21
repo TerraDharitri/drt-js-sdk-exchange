@@ -1,4 +1,4 @@
-import { Address } from '@terradharitri/sdk-core/out';
+import { Address } from '@terradharitri/sdk-core';
 
 export class MetabondingEventTopics {
     private readonly eventName: string;

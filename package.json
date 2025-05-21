@@ -1,6 +1,6 @@
 {
     "name": "@terradharitri/sdk-exchange",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Utilities modules for DharitriX interactions",
     "author": "DharitrI",
     "repository": {
@@ -21,6 +21,7 @@
     },
     "devDependencies": {
         "@types/jest": "27.5.0",
+        "@types/node": "^20.8.10",
         "@typescript-eslint/eslint-plugin": "5.22.0",
         "@typescript-eslint/parser": "5.22.0",
         "eslint": "8.14.0",
@@ -32,7 +33,7 @@
         "typescript": "^5.8.3"
     },
     "dependencies": {
-        "@terradharitri/sdk-core": "0.0.5",
+        "@terradharitri/sdk-core": "0.1.5",
         "bignumber.js": "9.0.1"
     }
 }

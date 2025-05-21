@@ -1,8 +1,4 @@
-import {
-    BinaryCodec,
-    FieldDefinition,
-    StructType,
-} from '@terradharitri/sdk-core/out';
+import { BinaryCodec, FieldDefinition, StructType } from '@terradharitri/sdk-core';
 import { Energy } from '../../attributes-decoder/energy/energy';
 import { ErrInvalidDataField } from '../../errors';
 import { RawEventType } from '../generic.types';

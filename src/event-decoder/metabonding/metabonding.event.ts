@@ -1,4 +1,4 @@
-import { Address, BinaryCodec, OptionType } from '@terradharitri/sdk-core/out';
+import { Address, BinaryCodec, OptionType } from '@terradharitri/sdk-core';
 import { ErrInvalidDataField } from '../../errors';
 import { RawEventType } from '../generic.types';
 import { RawEvent } from '../raw.event';

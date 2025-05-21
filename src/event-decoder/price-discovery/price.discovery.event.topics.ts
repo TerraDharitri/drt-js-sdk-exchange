@@ -1,4 +1,4 @@
-import { Address } from '@terradharitri/sdk-core/out';
+import { Address } from '@terradharitri/sdk-core';
 import { PriceDiscoveryTopicsType } from './price.discovery.types';
 
 export class PriceDiscoveryEventTopics {
