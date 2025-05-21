@@ -6,7 +6,7 @@ import {
     StructType,
     U64Type,
     U8Type,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import BigNumber from 'bignumber.js';
 import {
     LockedAssetAttributesType,

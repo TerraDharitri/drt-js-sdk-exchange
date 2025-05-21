@@ -1,12 +1,11 @@
 import {
     BigUIntType,
     BinaryCodec,
-    BooleanType,
     BytesType,
     FieldDefinition,
     StructType,
     TokenIdentifierType,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { ErrInvalidDataField } from '../../../errors';
 import { RawEventType } from '../../generic.types';
 import { RawEvent } from '../../raw.event';

@@ -3,7 +3,7 @@ import {
     FieldDefinition,
     StructType,
     TokenIdentifierType,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { GenericToken } from '../../generic.token';
 import { RawEventType } from '../generic.types';
 import { PriceDiscoveryEvent } from './price.discovery.event';

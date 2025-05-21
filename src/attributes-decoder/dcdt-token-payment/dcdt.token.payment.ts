@@ -7,7 +7,7 @@ import {
     StructType,
     TokenIdentifierType,
     U64Type,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { DcdtTokenPaymentType } from './dcdt.token.payment.type';
 
 export class DcdtTokenPayment {

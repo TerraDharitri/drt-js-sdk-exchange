@@ -5,7 +5,7 @@ import {
     FieldDefinition,
     StructType,
     TokenIdentifierType,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { ErrInvalidDataField } from '../../errors';
 import { GenericEvent } from '../generic.event';
 import { RawEventType } from '../generic.types';

@@ -1,4 +1,4 @@
-import { Address } from '@terradharitri/sdk-core/out';
+import { Address } from '@terradharitri/sdk-core';
 import { Energy, EnergyType } from '../../attributes-decoder';
 
 export class UserWeeklyRewardsSplittingEventTopics {

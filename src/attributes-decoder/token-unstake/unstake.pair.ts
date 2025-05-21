@@ -3,7 +3,7 @@ import {
     FieldDefinition,
     StructType,
     U64Type,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { DcdtTokenPayment } from '../dcdt-token-payment';
 import { UnstakePairType } from './unstake.pair.type';
 

@@ -1,8 +1,4 @@
-import {
-    BinaryCodec,
-    FieldDefinition,
-    StructType,
-} from '@terradharitri/sdk-core/out';
+import { BinaryCodec, FieldDefinition, StructType } from '@terradharitri/sdk-core';
 import { DcdtTokenPayment } from '../dcdt-token-payment/dcdt.token.payment';
 import { WrappedFarmTokenAttributesTypeV2 } from './proxy.token.types';
 

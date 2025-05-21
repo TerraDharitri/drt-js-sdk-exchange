@@ -6,7 +6,7 @@ import {
     StructType,
     TokenIdentifierType,
     U64Type,
-} from '@terradharitri/sdk-core/out';
+} from '@terradharitri/sdk-core';
 import { LockedFarmTokenType } from './simple.lock.token.types';
 
 export class LockedFarmTokenAttributes {

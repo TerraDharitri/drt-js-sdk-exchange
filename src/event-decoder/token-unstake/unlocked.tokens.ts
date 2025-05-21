@@ -1,4 +1,4 @@
-import { BinaryCodec, ListType } from '@terradharitri/sdk-core/out';
+import { BinaryCodec, ListType } from '@terradharitri/sdk-core';
 import { UnstakePair } from '../../attributes-decoder/token-unstake/unstake.pair';
 import { UnstakePairType } from '../../attributes-decoder/token-unstake/unstake.pair.type';
 import { ErrInvalidDataField, ErrInvalidTopicsField } from '../../errors';

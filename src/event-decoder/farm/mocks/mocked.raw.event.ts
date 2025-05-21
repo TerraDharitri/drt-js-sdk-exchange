@@ -1,5 +1,4 @@
 import { RawEventType } from '../../generic.types';
-import { RawEvent } from '../../raw.event';
 
 export const rawEnterFarmEventV1_2: RawEventType = {
     address: 'drt1qqqqqqqqqqqqqpgqye633y7k0zd7nedfnp3m48h24qygm5jl2jpsz62uuf',
