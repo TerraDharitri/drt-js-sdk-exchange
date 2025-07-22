@@ -1,6 +1,6 @@
-# DharitrI SDK for JavaScript and TypeScript: DharitriX utilities
+# DharitrI SDK for JavaScript and TypeScript: Dharitrix utilities
 
-Utilities modules for DharitriX interactions
+Utilities modules for Dharitrix interactions
 
 ## Distribution
 
