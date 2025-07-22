@@ -6,7 +6,7 @@ export const rawAddLiquidityProxyEvent: RawEventType = {
     topics: [
         'YWRkX2xpcXVpZGl0eV9wcm94eQ==',
         'V1JFV0EtYmQ0ZDc5',
-        'TEtNRVgtYWFiOTEw',
+        'V1JFV0EtYmQ0ZDc5',
         'EsYhAqZsYG90Ayj/HRxxwLx6xXPP0x15v0iGiPoFqb8=',
         'AAAAAAAAAAAFAOvTBMLzSms/alfBM6t7jG+B3EAVVIM=',
         'AoM=',
